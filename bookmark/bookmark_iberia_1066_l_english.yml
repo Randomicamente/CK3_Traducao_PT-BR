@@ -1,6 +1,6 @@
 ﻿l_english:
 
- bm_1066_iberia:0 "Iberia em pedaços"
+ bm_1066_iberia:0 "Iberia em Pedaços"
  bm_1066_iberia_desc:0 "Quando o velho rei Ferdinand I faleceu, seus três filhos herdaram um pedaço de seu reino ibérico. Ganância, ambição e guerras santas logo empurram a Península Ibérica para ferver, e os laços entre os membros da família começam a se desgastar.\n\n#bold Algum dos irmãos Fernandez é forte, ou astuto, o suficiente para sair vitorioso sobre o resto? Como a guerra e a diplomacia moldarão a Península Ibérica?#!"
 
  # Carcía Fernandez, King of Galicia, Iberia
@@ -30,7 +30,7 @@ Ela e sua irmã Elvira receberam o domínio de todos os mosteiros nos três rein
 
  # Antso IV Gartziez, King of Navarra, Iberia
  bookmark_iberia_king_antso:0 "Rei Antso IV"
- bookmark_iberia_king_antso_desc:1 "Muitos senhores no oeste do reino abandonaram o rei Antso depois que ele ascendeu ao trono após a morte de seus pais. He logo se envolveu em uma guerra com seu primo Rei Sancho que viu Antso derrotado, e depois de uma regra marcada pela guerra e derrota, ele foi assassinado por seus próprios irmãos.\n\n#bold Reescreva a história, seja mais esperto que sua família e proteja seu domínio e herança!#!"
+ bookmark_iberia_king_antso_desc:1 "Muitos senhores no oeste do reino abandonaram o Rei Antso depois que ele ascendeu ao trono após a morte de seus pais. He logo se envolveu em uma guerra com seu primo Rei Sancho que viu Antso derrotado, e depois de uma regra marcada pela guerra e derrota, ele foi assassinado por seus próprios irmãos.\n\n#bold Reescreva a história, seja mais esperto que sua família e proteja seu domínio e herança!#!"
 
  bookmark_iberia_king_antso_alt_ramiro:0 "$Ramiro$"
  bookmark_iberia_king_antso_alt_sancho:0 "$Sancho$"
